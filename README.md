@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo
 
 projet-devops/
@@ -20,3 +21,6 @@ projet-devops/
 └── .gitignore            # Fichiers à ignorer par Git
 
 Lien du repositorie : https://github.com/sionlysion/todo
+=======
+# todo-list
+>>>>>>> f55d2c9af902f80a50d6fa2efae54d74093ad7f5
